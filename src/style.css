@@ -1,1 +1,8 @@
-@import "~bootstrap/dist/css/bootstrap.min.css";
+.container-fluid{text-align:center;
+    width: 100%;
+    }
+    .contenido{margin:0px auto;
+    text-align: center;
+    }
+    .body{width: 100%;
+    }
